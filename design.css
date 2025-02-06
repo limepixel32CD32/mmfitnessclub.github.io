@@ -1,0 +1,75 @@
+.menu {
+    background-color: black;
+    color: whitesmoke;
+    font-size:20px;
+    font-family: Helvetica;
+
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+        }
+.menutext:hover {
+    color: #6bc946;
+    font-size:20px;
+    font-family: Helvetica;
+}
+.menutext {
+    color: whitesmoke;
+    font-size:20px;
+    font-family: Helvetica;
+}
+.text {
+    color: black;
+    font-size:20px;
+    font-family: Helvetica;
+
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+footer {
+    font-size:10px;
+    font-family: Helvetica;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+.impressum {
+    font-size:10px;
+    color: black;
+    font-family: Helvetica;
+    text-decoration: none;
+}
+
+.impressum:hover {
+    font-size:10px;
+    color: #6bc946;
+    font-family: Helvetica;
+    text-decoration: none;
+}
+
+h2 {
+    color: black;
+    font-size:25px;
+    font-family: Helvetica;
+}
+
+
+a {
+    color: black;
+    font-size:20px;
+    font-family: Helvetica;
+    text-decoration: none;
+}
+a:hover {
+    color: #6bc946;
+    font-size:20px;
+    font-family: Helvetica;
+}
